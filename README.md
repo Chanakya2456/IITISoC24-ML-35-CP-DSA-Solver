@@ -1,5 +1,5 @@
-# CP/DSA Question Solver
-
+# CP/DSA Question Solver 
+Team Name:# ML 35
 Welcome to the CP/DSA Question Solver project, part of the IITI Summer of Code initiative! This repository contains the code and resources for building an automated solver for competitive programming and data structures & algorithms (CP/DSA) questions from various platforms.
 
 ## Overview
@@ -63,4 +63,8 @@ For solving questions from other CP/DSA platforms:
 ## Interface:
 ![image](https://github.com/user-attachments/assets/988b14be-07dd-49e0-a2f9-3361241862f5)
 
-
+## Team Members:
+ 1)Chanakya Cherukumalli
+ 2)Varad Pendse
+ 3)Rishab Anand
+ 4)Kushagra Mishra 
