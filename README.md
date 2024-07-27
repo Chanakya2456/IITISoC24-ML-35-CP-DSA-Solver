@@ -42,7 +42,7 @@ For solving Codeforces questions:
 - **Model:** Uses a DeepSeek-Coder-6.7B-base model, fine-tuned with RL-based ORPO techniques.
 - **Deployment:** Streamlit is used to deploy the Codeforces question solver.
 
-### 3. Others Workflow
+### 3. New Questions Workflow
 
 For solving questions from other CP/DSA platforms:
 - **Model:** Integrates RAG with DeepSeek-V2-Lite-Instruct (16B version) for a versatile solution.
