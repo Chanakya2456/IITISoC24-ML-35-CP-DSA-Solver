@@ -16,11 +16,15 @@ This project aims to create an automated solver for CP/DSA questions using state
    - **Retrieval:** Uses SentenceTransformer MiniLM and FAISS to retrieve relevant information.
    - **Model:** Specific models are used depending on the platform (detailed below).
 
-3. **Scraping Questions:**
+3. **Fine-Tuning LLM:**
+   - **Dataset:** Consists of 'prompt','accepted','rejected' columns for ORPO fine-tuning , made using base LLM and pandas.
+   - **Method:** Reinforcement Learning based ORPO fine tuning, straying away from 'rejected' answers and running parallel to 'accepted' answers.
+     
+4. **Scraping Questions:**
    - **Tools Used:** BeautifulSoup and GitHub API
    - Collects questions from the respective platforms for training and testing the models.
 
-4. **Deployment:**
+5. **Deployment:**
    - **Tool Used:** Streamlit
    - Provides a user-friendly interface to interact with the question solver.
 
