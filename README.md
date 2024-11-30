@@ -64,7 +64,7 @@ For solving questions from other CP/DSA platforms:
 ![image](https://github.com/user-attachments/assets/988b14be-07dd-49e0-a2f9-3361241862f5)
 
 ## Team Members:
- 1)Chanakya Cherukumalli </br>
- 2)Varad Pendse</br>
- 3)Rishab Anand</br>
- 4)Kushagra Mishra 
+- [Chanakya Cherukumalli](https://github.com/Chanakya2456)
+- [Varad Pendse](https://github.com/)
+- [Rishabh Anand](https://github.com/)
+- [Kushagra Mishra](https://github.com/)
