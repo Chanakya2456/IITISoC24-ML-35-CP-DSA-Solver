@@ -65,6 +65,6 @@ For solving questions from other CP/DSA platforms:
 
 ## Team Members:
 - [Chanakya Cherukumalli](https://github.com/Chanakya2456)
-- [Varad Pendse](https://github.com/)
-- [Rishabh Anand](https://github.com/)
+- [Varad Pendse](https://github.com/darKKnight14110)
+- [Rishabh Anand](https://github.com/rishabh-2005)
 - [Kushagra Mishra](https://github.com/)
